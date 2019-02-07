@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jclem/dorante",
   "dependencies": {
     "bluebird": "^1.2.4",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.11",
     "request": "^2.36.0",
     "steeltoe": "^1.0.1"
   },
